@@ -7,7 +7,7 @@ ON-LINE FREE RESEARCH PAPERS & SHAQ RESEARCH RESULTS, QUESTIONS, and ADMINISTRAT
 2. Academia.edu: https://csulb.academia.edu/TomStevens
 3. ResearchGate.net:  https://www.researchgate.net/profile/Tom-Stevens-4
 
-TO VIEW or DOWNLOAD THE BOOK THAT SHAQ was based on, "YOU CAN CHOOSE TO BE HAPPY": "Rise Above" Anxiety, Anger, and Depression; go to: https://web.csulb.edu/~tstevens
+TO VIEW or DOWNLOAD THE (FREE pdf) BOOK THAT SHAQ was based on, "YOU CAN CHOOSE TO BE HAPPY": "Rise Above" Anxiety, Anger, and Depression; go to: https://web.csulb.edu/~tstevens
 
 ABOUT THE SHAQ SOFTWARE:
 SHAQ is one of most comprehensive personality tests ever written. Written in Lispworks. 
